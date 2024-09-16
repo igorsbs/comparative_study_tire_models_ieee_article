@@ -1,5 +1,4 @@
 # comparative_study_tire_models_ieee_article
-Files to generate the article results
 
 To reproduce the results presented in the article, it is necessary to run the script file Run_simulation.p, which automates the execution of the simulations. Additionally, specific Simulink files, .mat files, and MATLAB functions are required as they contain the models, data, and configurations used in the simulations.
 
